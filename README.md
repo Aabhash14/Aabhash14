@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Appium** and **UI Testing concepts**
 
-- 👯 I'm looking for an opportunity with a company that provides a strong learning environment where I can enhance my skills through real-world work and build a solid foundation for a better future **Quality Assurance Engineer**
+- 👯 I'm looking to grab the opportunity to work with a company that provides a strong learning environment where I can enhance my skills through real-world work and build a solid foundation for a better future **Quality Assurance Engineer**
 
 - 🤝 I’m looking for help with **Software Quality Assurance**
 
