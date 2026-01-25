@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Cura HealthCare Service - Automation](https://github.com/Aabhash14/Cura-Healthcare-Service-Automation-Testing)
 
-- 🌱 I’m currently learning **Appium**
+- 🌱 I’m currently learning **Appium** and **UI Testing concepts**
 
-- 👯 I’m looking to collaborate on **Manual and Automation Testing Projects**
+- 👯 I'm looking for an opportunity with a company that provides a strong learning environment where I can enhance my skills through real-world work and build a solid foundation for a better future **Quality Assurance Engineer**
 
 - 🤝 I’m looking for help with **Software Quality Assurance**
 
