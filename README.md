@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Software Quality Assurance**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aabhash14](https://github.com/Aabhash14)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/Aabhash14](https://github.com/Aabhash14?tab=repositories))
 
 - 💬 Ask me about **Quality Assurance**
 
