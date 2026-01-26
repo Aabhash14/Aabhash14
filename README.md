@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aabhashshahi214@gmail.com**
 
-- 📄 Know about my experiences [Experience Files](https://drive.google.com/file/d/190JFzU02o5jWyfhdYH-l1uYu_V6dZxs-/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/190JFzU02o5jWyfhdYH-l1uYu_V6dZxs-/view?usp=sharing)
 
 - ⚡ Fun fact **Certified in U.S. HIPAA compliance and a lifetime member of the Nepal Red Cross Society, reflecting strong ethics, responsibility, and long-term commitment to service. Equally comfortable with teamwork and creativity, with achievements spanning a futsal tournament win, fashion show design contribution, and instructing a graphic design workshop.**
 
