@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aabhash Shahi</h1>
-<h3 align="center">A passionate Quality Assurance (QA) Engineer from Nepal</h3>
+<h3 align="center">A passionate Quality Assurance (QA) Engineer from Nepal who is looking for oppurtunity in Real World</h3>
 
 - 🔭 I’m currently working on [BrandifyPro Application Testing - Manual & Automation](https://docs.google.com/spreadsheets/d/1iE_KYMoA8HCCKqNiUKu646gIr5oMKoziH8AG86zjpdg/edit?usp=sharing)
 
