@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aabhash Shahi</h1>
 <h3 align="center">A passionate Quality Assurance (QA) Engineer from Nepal</h3>
 
-- 🔭 I’m currently working on [BrandifyPro Application Testing - Manual]([https://github.com/Aabhash14/Cura-Healthcare-Service-Automation-Testing](https://docs.google.com/spreadsheets/d/1iE_KYMoA8HCCKqNiUKu646gIr5oMKoziH8AG86zjpdg/edit?usp=sharing))
+- 🔭 I’m currently working on [BrandifyPro Application Testing - Manual](https://docs.google.com/spreadsheets/d/1iE_KYMoA8HCCKqNiUKu646gIr5oMKoziH8AG86zjpdg/edit?usp=sharing)
 
 - 🌱 I’m currently learning **Appium** and **UI Testing concepts**
 
