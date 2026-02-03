@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BrandifyPro Application Testing - Manual & Automation](https://docs.google.com/spreadsheets/d/1iE_KYMoA8HCCKqNiUKu646gIr5oMKoziH8AG86zjpdg/edit?usp=sharing)
 
-- 🌱 I’m currently learning **Appium** and **UI Testing concepts**
+- 🌱 I’m currently learning **Playwright**
 
 - 👯 I'm looking to grab the opportunity to work with a company that provides a strong learning environment where I can enhance my skills through real-world work and build a solid foundation for a better future **Quality Assurance Engineer**
 
